@@ -11655,6 +11655,20 @@ main-search .input-holder {
 }
 /* Kosuke added this on Nov 1 2025*/
 
+/* Override for size variants - keep transparent background when selected */
+.selector-wrapper--size .radio__fieldset .radio__button input:checked ~ label {
+  background: transparent;
+  color: var(--text);
+  border-color: var(--text);
+  border-width: 2px;
+}
+
+.selector-wrapper--size .radio__fieldset .radio__button label:hover,
+.selector-wrapper--size .radio__fieldset .radio__button label:active,
+.selector-wrapper--size .radio__fieldset .radio__button label:focus {
+  background: transparent;
+  color: var(--text);
+}
 
 .radio__fieldset .radio__buttons {
   margin: -4px;
