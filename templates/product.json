@@ -177,7 +177,7 @@
           "type": "upsell",
           "settings": {
             "upsell_product": "",
-            "upsell_product_list": [],
+            "upsell_product_list": "{{ block.settings.upsell_product.metafields.theme.upsell_list.value }}",
             "show_available_upsell_only": true,
             "layout": "stacked",
             "autoplay": true,
