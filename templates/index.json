@@ -1,1 +1,1071 @@
-{"sections":{"section-slideshow-nested":{"type":"section-slideshow-nested","blocks":{"slide-image":{"type":"_slide-image","settings":{"image":"shopify:\/\/shop_images\/Banner_1.jpg","link":"","flex_align_desktop":"align--bottom-left-desktop","flex_align_mobile":"align--middle-center-mobile","show_text_background":false,"bg_color":"","color":"#ffffff","overlay_type":"text"},"blocks":{"heading":{"type":"heading","settings":{"text":"Everyday Luxury","heading_font_size":"heading-large","heading_tag":"automatic","padding_bottom":8},"blocks":{}},"text":{"type":"text","settings":{"text":"soft and cozy loungewear for this winter","text_font_size":"body-large","padding_bottom":8},"blocks":{}},"group-buttons":{"type":"_group-buttons","name":"Side by side buttons","settings":{"button_text":"Shop all products","button_url":"","button_type":"btn--black","button_size":"","button_style":"btn--solid","show_arrow":false,"button_secondary_text":"Shop sale","button_secondary_url":"","button_secondary_type":"btn--white","button_secondary_size":"","button_secondary_style":"btn--solid","show_secondary_arrow":false,"padding_bottom":8},"blocks":{}}},"block_order":["heading","text","group-buttons"]},"slide-video":{"type":"_slide-video","name":"Video","settings":{"video":"shopify:\/\/files\/videos\/PC_1.mp4","link":"","flex_align_desktop":"align--middle-center-desktop","flex_align_mobile":"align--middle-center-mobile","show_text_background":false,"bg_color":"","color":"#ffffff","overlay_type":"opacity"},"blocks":{"heading-0":{"type":"heading","settings":{"text":"Gelato pique meets Pokémon","heading_font_size":"heading-large","heading_tag":"automatic","padding_bottom":8},"blocks":{}},"text-0":{"type":"text","name":"Text","settings":{"text":"","text_font_size":"body-large","padding_bottom":8},"blocks":{}},"button":{"type":"button","settings":{"text":"Shop Pokémon Collection","link":"shopify:\/\/products\/2024-pokemon-sleep-baby-moco-ditto-hoodie-shorts-set","type":"btn--white","size":"","style":"btn--solid","show_arrow":false,"full_width":false,"padding_bottom":8},"blocks":{}}},"block_order":["heading-0","text-0","button"]},"slide-image-0":{"type":"_slide-image","name":"Image","settings":{"image":"shopify:\/\/shop_images\/banner_pc_9e3b95f6-210b-412c-a99c-0ce4dc62d019.jpg","link":"","flex_align_desktop":"align--middle-center-desktop","flex_align_mobile":"align--middle-center-mobile","show_text_background":false,"bg_color":"","color":"#ffffff","overlay_type":"disabled"},"blocks":{"button-0":{"type":"button","settings":{"text":"Shop Cloud Line","link":"shopify:\/\/collections\/marshmallow-cloud-line","type":"btn--white","size":"","style":"btn--solid","show_arrow":false,"full_width":false,"padding_bottom":8},"blocks":{}}},"block_order":["button-0"]}},"block_order":["slide-image","slide-video","slide-image-0"],"name":"Slideshow (Nested)","settings":{"transition":"slide","show_arrows":true,"autoplay":true,"autoplay_speed":4,"width":"wrapper--full","height":"screen-height-three-quarters","mobile_height":"screen-height-full--mobile","color_scheme":"scheme-5","padding_top":0,"padding_bottom":0}},"section-text-with-products":{"type":"section-text-with-products","blocks":{"collection":{"type":"collection","settings":{"collection":"cookie-ice-cream","image":"shopify:\/\/shop_images\/a118_9757b066-e84d-48ac-b546-f809e89f1f2b.jpg","image_position":1,"aspect_ratio":0.6,"width":120,"mobile_aspect_ratio":0.6,"mobile_width":80}},"collection-0":{"type":"collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/PSGG255828_p_01_LL.jpg","image_position":2,"aspect_ratio":0.6,"width":120,"mobile_aspect_ratio":0.6,"mobile_width":80}},"collection-1":{"type":"collection","settings":{"collection":"","image":"shopify:\/\/shop_images\/PWNT255129_c_066_LL.jpg","image_position":7,"aspect_ratio":0.5,"width":120,"mobile_aspect_ratio":0.6,"mobile_width":60}}},"block_order":["collection","collection-0","collection-1"],"settings":{"subheading":"bestselling loungewear from Japan","heading":"Soft comfort elegant","image_border_radius":20,"width":"wrapper--full-padded","text_font_size_px_desktop":32,"text_align_desktop":"text-center","text_font_size_px_mobile":26,"text_align_mobile":"text-left--mobile","color_scheme":"","padding_top":60,"padding_bottom":40}},"section_video_wGknUF":{"type":"section-video","name":"Video","settings":{"video":"shopify:\/\/files\/videos\/Gelatopique _15th _16x9 _fin _ver2_378a7313-2a8e-4027-b059-3e9bd3ccf65b.mp4","show_video_popup":false,"video_popup":"shopify:\/\/files\/videos\/Gelatopique _15th _16x9 _fin _ver2_378a7313-2a8e-4027-b059-3e9bd3ccf65b.mp4","video_popup_social":"","title":"","heading_font_size":"heading-large","text":"","text_font_size":"body-medium","flex_align":"align--middle-center","link_text":"","link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"desktop_height":"screen-height-three-quarters","mobile_height":"screen-height-three-quarters--mobile","width":"wrapper--full","color_scheme":"","show_text_background":false,"color":"","overlay_type":"disabled","padding_top":0,"padding_bottom":0,"heading_tag":"automatic"}},"section-custom-content":{"type":"section-custom-content","blocks":{"image-3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/504836573_18510096229002810_6812477815946635565_n.jpg","title":"Womens","heading_font_size":"heading-medium","text":"","text_font_size":"body-medium","flex_align":"align--bottom-left","show_text_background":false,"bg_color":"","color":"#ffffff","overlay_type":"disabled","link_text":"Shop now","link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"heading_tag":"automatic"}},"image-4":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/499351052_18310123294212316_8683095939718837740_n.jpg","title":"Mens","heading_font_size":"heading-medium","text":"","text_font_size":"body-medium","flex_align":"align--bottom-left","show_text_background":false,"bg_color":"","color":"#ffffff","overlay_type":"disabled","link_text":"Shop now","link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"heading_tag":"automatic"}}},"block_order":["image-3","image-4"],"settings":{"borders":false,"gutters":true,"width":"wrapper--full-padded","height":"sixty-fifty-height-hero","mobile_height":"four-fifty-height-hero--mobile","reverse_blocks":false,"color_scheme":"scheme-6","padding_top":0,"padding_bottom":0}},"section-announcement":{"type":"section-announcement","blocks":{"text-3":{"type":"text","settings":{"text":"<p>•<\/p>","text_font_size":"body-x-large","color":"","target_device_enabled":false,"target_device":"mobile"}},"heading-3":{"type":"heading","settings":{"heading":"Timeless pieces to treasure forever","heading_font_size":"heading-x-small"}},"text-4":{"type":"text","settings":{"text":"<p>•<\/p>","text_font_size":"body-x-large","color":"","target_device_enabled":false,"target_device":"mobile"}},"heading-4":{"type":"heading","settings":{"heading":"Ethical sourcing and manufacturing","heading_font_size":"heading-x-small"}},"text-5":{"type":"text","settings":{"text":"<p>•<\/p>","text_font_size":"body-x-large","color":"","target_device_enabled":false,"target_device":"mobile"}},"heading-5":{"type":"heading","settings":{"heading":"Sustainable heirlooms","heading_font_size":"heading-x-small"}}},"block_order":["text-3","heading-3","text-4","heading-4","text-5","heading-5"],"disabled":true,"settings":{"slider_speed":7,"text_alignment":"center","marquee_speed":100,"direction":"ticker-rtl","message_spacing":10,"show_border":false,"layout":"marquee","color_scheme":"scheme-2","padding_top":20,"padding_bottom":20}},"section-tab-collections":{"type":"section-tab-collections","blocks":{"collection-2":{"type":"collection","settings":{"title":"","featured_collection":"dragon-quest","show_image":true,"align_with_product_images":false,"overlay_type":"disabled","description":"","color":"#ffffff","link_text":"View products","link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false}},"collection-3":{"type":"collection","settings":{"title":"","featured_collection":"halloween-2025","show_image":true,"align_with_product_images":true,"overlay_type":"disabled","description":"","color":"#ffffff","link_text":"","link":"","button_type":"btn--primary","button_size":"btn--large","button_style":"btn--solid","show_arrow":false}},"collection-4":{"type":"collection","settings":{"title":"","featured_collection":"midnight-hearts","show_image":true,"align_with_product_images":true,"overlay_type":"disabled","description":"","color":"#000000","link_text":"Add to cart","link":"","button_type":"btn--secondary","button_size":"btn--large","button_style":"btn--text","show_arrow":false}}},"block_order":["collection-2","collection-3","collection-4"],"settings":{"show_product_count":false,"title":"Latest collections","heading_font_size":"heading-medium","text":"","text_font_size":"body-medium","layout":"inline","layout_desktop":"slider","product_limit":7,"grid":4,"rows":3,"layout_mobile":"2","color_scheme":"scheme-6","padding_top":62,"padding_bottom":62,"heading_tag":"automatic"}},"section-press-logos":{"type":"section-press-logos","blocks":{"logo-item-text":{"type":"logo-item-text","settings":{"logo_width":100,"link":"","text":"Sustainable luxury at its most refined","text_font_size":"body-x-large"}},"logo-item-text-0":{"type":"logo-item-text","settings":{"logo_width":100,"link":"","text":"Jewelry that’s as ethical as it is exquisite","text_font_size":"body-x-large"}},"logo-item-text-1":{"type":"logo-item-text","settings":{"logo_width":100,"link":"","text":"The future of fine jewelry is here—and it’s conscious.","text_font_size":"body-x-large"}},"logo-item-text-2":{"type":"logo-item-text","settings":{"logo_width":100,"link":"","text":"Each piece feels like a modern heirloom","text_font_size":"body-x-large"}},"logo-item-text-3":{"type":"logo-item-text","settings":{"logo_width":100,"link":"","text":"Minimal, meaningful, and made to last","text_font_size":"body-x-large"}},"logo-item-text-4":{"type":"logo-item-text","settings":{"logo_width":100,"link":"","text":"Where craftsmanship meets a conscience","text_font_size":"body-x-large"}}},"block_order":["logo-item-text","logo-item-text-0","logo-item-text-1","logo-item-text-2","logo-item-text-3","logo-item-text-4"],"settings":{"enable_heading_slider":true,"logo_opacity":60,"title":"As seen in","color_scheme":"","padding_top":100,"padding_bottom":100}},"section_custom_content_JwFiKQ":{"type":"section-custom-content","blocks":{"image_ADaLYU":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Asset_16_2x_bae99f44-08b6-4591-b00e-01d3216829b7.png","title":"","heading_font_size":"heading-large","text":"","text_font_size":"body-medium","flex_align":"align--middle-center","show_text_background":false,"bg_color":"","color":"","overlay_type":"disabled","link_text":"","link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"heading_tag":"automatic"}},"text_KCKXpx":{"type":"text","settings":{"subheading":"Featured","title":"Perfect Picks for This Fall","heading_font_size":"heading-large","text":"<p>Celebrate the season with gifts that spark joy. Find something special for everyone.<\/p>","text_font_size":"body-medium","button_text":"Shop now","button_url":"shopify:\/\/pages\/gift-guide-5","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"show_social_links":false,"text_columns":1,"align_text":"text-left","bg_color":"","color":"","heading_tag":"automatic"}}},"block_order":["image_ADaLYU","text_KCKXpx"],"name":"Custom section","settings":{"borders":false,"gutters":false,"width":"wrapper--full-padded","height":"screen-height-one-half","mobile_height":"screen-height-one-half--mobile","reverse_blocks":false,"color_scheme":"","padding_top":0,"padding_bottom":0}},"section-announcement-0":{"type":"section-announcement","blocks":{"text-6":{"type":"text","settings":{"text":"<p>•<\/p>","text_font_size":"body-small","color":"","target_device_enabled":false,"target_device":"desktop"}},"heading-6":{"type":"heading","settings":{"heading":"Express yourself in your own way","heading_font_size":"heading-x-small"}}},"block_order":["text-6","heading-6"],"disabled":true,"settings":{"slider_speed":7,"text_alignment":"center","marquee_speed":100,"direction":"ticker-ltr","message_spacing":10,"show_border":false,"layout":"marquee","color_scheme":"scheme-2","padding_top":20,"padding_bottom":20}},"section-look":{"type":"section-look","blocks":{"product_CQpfyi":{"type":"product","settings":{"product":"baby-moco-teddy-bear-sagara-cardigan","show_product_card":true,"position_x":50,"position_y":50}},"product-0":{"type":"product","settings":{"product":"baby-moco-teddy-bear-sagara-pants","show_product_card":true,"position_x":55,"position_y":29}}},"block_order":["product_CQpfyi","product-0"],"settings":{"image":"shopify:\/\/shop_images\/PWNT255128_p_28_LL.jpg","layout":"","title":"Shop the look","heading":"","heading_font_size":"heading-mini","show_dots":true,"products_per_row":"1","enable_slider":false,"button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":true,"enable_aspect_ratio":true,"image_aspect_ratio":1.1,"color_scheme":"scheme-6","dot_color":"#ffffff","dot_background":"#ffffff","padding_top":0,"padding_bottom":0,"heading_tag":"automatic"}},"section-product":{"type":"section-product","disabled":true,"settings":{"product":"","show_product_card":true,"layout":"is-reversed","limit":5,"scrolling_styles":"vertical","horizontal_scroll":false,"color_scheme":"scheme-3"}},"section-rich-text":{"type":"section-rich-text","blocks":{"subheading-0":{"type":"subheading","settings":{"subheading":"Follow us","padding_bottom":6}},"heading-7":{"type":"heading","settings":{"title":"@gelatopique_usa","heading_font_size":"heading-small","padding_bottom":16,"heading_tag":"automatic"}}},"block_order":["subheading-0","heading-7"],"settings":{"align_text":"text-left","width":"wrapper--full-padded","color_scheme":"","overlay_type":"disabled","padding_top":82,"padding_bottom":0}},"section_collection_links_spotlight_rygNa3":{"type":"section-collection-links-spotlight","blocks":{"collection_RdqBVp":{"type":"collection","settings":{"collection":"halloween-2025","title":"","heading_font_size":"heading-large","button_text":"Shop now","button_link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","button_show_arrow":false,"background_color":""}},"collection_8Kxbh7":{"type":"collection","settings":{"collection":"dragon-quest","title":"","heading_font_size":"heading-large","button_text":"Shop now","button_link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","button_show_arrow":false,"background_color":""}},"collection_QQYjT9":{"type":"collection","settings":{"collection":"marshmallow-cloud-line","title":"","heading_font_size":"heading-large","button_text":"Shop now","button_link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","button_show_arrow":false,"background_color":""}},"collection_xAtmPg":{"type":"collection","settings":{"collection":"midnight-hearts","title":"","heading_font_size":"heading-large","button_text":"Shop now","button_link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","button_show_arrow":false,"background_color":""}},"collection_7wnNHY":{"type":"collection","settings":{"collection":"cozy-nights-with-pets","title":"","heading_font_size":"heading-large","button_text":"Shop now","button_link":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","button_show_arrow":false,"background_color":""}}},"block_order":["collection_RdqBVp","collection_8Kxbh7","collection_QQYjT9","collection_xAtmPg","collection_7wnNHY"],"name":"Collection links: spotlight","settings":{"title":"Collections Spotlight","heading_font_size":"heading-large","text":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>","text_font_size":"body-medium","layout":"","width":"wrapper--full","height":"screen-height-one-third","mobile_height":"screen-height-one-half--mobile","reverse_blocks":false,"color_scheme":"","padding_top":0,"padding_bottom":0}},"section_collection_TbKVF7":{"type":"section-collection","name":"Featured collection","settings":{"featured_collection":"womens-new-arrivals","heading":"Best Sellers","heading_font_size":"heading-medium","description":"","text_font_size":"body-medium","layout":"inline","link_text":"Shop Now","link_url":"","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"layout_desktop":"grid","grid":4,"rows":3,"width":"wrapper","layout_mobile":"slider","color_scheme":"","padding_top":50,"padding_bottom":50,"heading_tag":"automatic"}},"section_collections_list_bFJqEL":{"type":"section-collections-list","blocks":{"collection_8QLUi6":{"type":"collection","settings":{"collection":"dragon-quest","title":""}},"collection_4fpDi8":{"type":"collection","settings":{"collection":"marshmallow-cloud-line","title":""}},"collection_E96mem":{"type":"collection","settings":{"collection":"halloween-2025","title":""}},"collection_y3L4fF":{"type":"collection","settings":{"collection":"midnight-hearts","title":""}},"collection_7dricm":{"type":"collection","settings":{"collection":"2025-dick-bruna","title":""}}},"block_order":["collection_8QLUi6","collection_4fpDi8","collection_E96mem","collection_y3L4fF","collection_7dricm"],"name":"Collection list","settings":{"title":"Collection list","heading_font_size":"heading-medium","description":"","text_font_size":"body-medium","button_text":"","button_url":"shopify:\/\/collections","button_type":"btn--primary","button_size":"","button_style":"btn--solid","show_arrow":false,"aspect_ratio":1,"width":"wrapper--full-padded","layout":"grid","grid":5,"layout_mobile":"slider","color_scheme":"","padding_top":32,"padding_bottom":32,"heading_tag":"automatic"}},"section_recent_products_egQTC7":{"type":"section-recent-products","name":"Recently viewed products","settings":{"product_recently_limit":6,"product_recently_minimum":4,"product_recently_heading":"Recently viewed","heading_font_size":"heading-x-small","layout_desktop":"slider","grid":4,"rows":3,"layout_mobile":"slider","color_scheme":"","padding_top":30,"padding_bottom":0,"heading_tag":"automatic"}},"section_sidebar_G9UxPM":{"type":"section-sidebar","blocks":{"header_MBzyb4":{"type":"header","settings":{"title":"What is Gelato Pique?"}},"accordion_PtLABM":{"type":"accordion","settings":{"title":"How much is shipping?","content":"<p>We offer free shipping on all US orders, and a flat rate of $10 for all international orders.<\/p>"}},"accordion_LxERqd":{"type":"accordion","settings":{"title":"What is your return policy?","content":"<p>We accept returns within 30 days of the purchase date.<\/p>"}},"header_wqMbDr":{"type":"header","settings":{"title":"Question theme 2"}},"accordion_8VVhAw":{"type":"accordion","settings":{"title":"Can I use more than one discount code?","content":"<p>Only one discount code can be used per order and cannot be combined with other promotions.<\/p>"}},"header_CFfjN3":{"type":"header","settings":{"title":"Contact"}},"text_JWUaAh":{"type":"text","settings":{"text":"<p>Still have questions? We're happy to help! Please email us at hi@email.com and we will get back to you within 24 hours.<\/p>"}}},"block_order":["header_MBzyb4","accordion_PtLABM","accordion_LxERqd","header_wqMbDr","accordion_8VVhAw","header_CFfjN3","text_JWUaAh"],"name":"Sidebar","settings":{"heading_font_size":"heading-small","width":"wrapper--full-padded","color_scheme":"","padding_top":100,"padding_bottom":100}}},"order":["section-slideshow-nested","section-text-with-products","section_video_wGknUF","section-custom-content","section-announcement","section-tab-collections","section-press-logos","section_custom_content_JwFiKQ","section-announcement-0","section-look","section-product","section-rich-text","section_collection_links_spotlight_rygNa3","section_collection_TbKVF7","section_collections_list_bFJqEL","section_recent_products_egQTC7","section_sidebar_G9UxPM"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section-slideshow-nested": {
+      "type": "section-slideshow-nested",
+      "blocks": {
+        "slide-image": {
+          "type": "_slide-image",
+          "settings": {
+            "image": "shopify://shop_images/Banner_1.jpg",
+            "link": "",
+            "flex_align_desktop": "align--bottom-left-desktop",
+            "flex_align_mobile": "align--middle-center-mobile",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "overlay_type": "text"
+          },
+          "blocks": {
+            "heading": {
+              "type": "heading",
+              "settings": {
+                "text": "Everyday Luxury",
+                "heading_font_size": "heading-large",
+                "heading_tag": "automatic",
+                "padding_bottom": 8
+              },
+              "blocks": {}
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+                "text": "soft and cozy loungewear for this winter",
+                "text_font_size": "body-large",
+                "padding_bottom": 8
+              },
+              "blocks": {}
+            },
+            "group-buttons": {
+              "type": "_group-buttons",
+              "name": "Side by side buttons",
+              "settings": {
+                "button_text": "Shop all products",
+                "button_url": "",
+                "button_type": "btn--black",
+                "button_size": "",
+                "button_style": "btn--solid",
+                "show_arrow": false,
+                "button_secondary_text": "Shop sale",
+                "button_secondary_url": "",
+                "button_secondary_type": "btn--white",
+                "button_secondary_size": "",
+                "button_secondary_style": "btn--solid",
+                "show_secondary_arrow": false,
+                "padding_bottom": 8
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "heading",
+            "text",
+            "group-buttons"
+          ]
+        },
+        "slide-video": {
+          "type": "_slide-video",
+          "name": "Video",
+          "settings": {
+            "video": "shopify://files/videos/PC_1.mp4",
+            "link": "",
+            "flex_align_desktop": "align--middle-center-desktop",
+            "flex_align_mobile": "align--middle-center-mobile",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "overlay_type": "opacity"
+          },
+          "blocks": {
+            "heading-0": {
+              "type": "heading",
+              "settings": {
+                "text": "Gelato pique meets Pokémon",
+                "heading_font_size": "heading-large",
+                "heading_tag": "automatic",
+                "padding_bottom": 8
+              },
+              "blocks": {}
+            },
+            "text-0": {
+              "type": "text",
+              "name": "Text",
+              "settings": {
+                "text": "",
+                "text_font_size": "body-large",
+                "padding_bottom": 8
+              },
+              "blocks": {}
+            },
+            "button": {
+              "type": "button",
+              "settings": {
+                "text": "Shop Pokémon Collection",
+                "link": "shopify://products/2024-pokemon-sleep-baby-moco-ditto-hoodie-shorts-set",
+                "type": "btn--white",
+                "size": "",
+                "style": "btn--solid",
+                "show_arrow": false,
+                "full_width": false,
+                "padding_bottom": 8
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "heading-0",
+            "text-0",
+            "button"
+          ]
+        },
+        "slide-image-0": {
+          "type": "_slide-image",
+          "name": "Image",
+          "settings": {
+            "image": "shopify://shop_images/banner_pc_9e3b95f6-210b-412c-a99c-0ce4dc62d019.jpg",
+            "link": "",
+            "flex_align_desktop": "align--middle-center-desktop",
+            "flex_align_mobile": "align--middle-center-mobile",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "overlay_type": "disabled"
+          },
+          "blocks": {
+            "button-0": {
+              "type": "button",
+              "settings": {
+                "text": "Shop Cloud Line",
+                "link": "shopify://collections/marshmallow-cloud-line",
+                "type": "btn--white",
+                "size": "",
+                "style": "btn--solid",
+                "show_arrow": false,
+                "full_width": false,
+                "padding_bottom": 8
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "button-0"
+          ]
+        }
+      },
+      "block_order": [
+        "slide-image",
+        "slide-video",
+        "slide-image-0"
+      ],
+      "name": "Slideshow (Nested)",
+      "settings": {
+        "transition": "slide",
+        "show_arrows": true,
+        "autoplay": true,
+        "autoplay_speed": 4,
+        "width": "wrapper--full",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-full--mobile",
+        "color_scheme": "scheme-5",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section-text-with-products": {
+      "type": "section-text-with-products",
+      "blocks": {
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "collection": "cookie-ice-cream",
+            "image": "shopify://shop_images/a118_9757b066-e84d-48ac-b546-f809e89f1f2b.jpg",
+            "image_position": 1,
+            "aspect_ratio": 0.6,
+            "width": 120,
+            "mobile_aspect_ratio": 0.6,
+            "mobile_width": 80
+          }
+        },
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/PSGG255828_p_01_LL.jpg",
+            "image_position": 2,
+            "aspect_ratio": 0.6,
+            "width": 120,
+            "mobile_aspect_ratio": 0.6,
+            "mobile_width": 80
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/PWNT255129_c_066_LL.jpg",
+            "image_position": 7,
+            "aspect_ratio": 0.5,
+            "width": 120,
+            "mobile_aspect_ratio": 0.6,
+            "mobile_width": 60
+          }
+        }
+      },
+      "block_order": [
+        "collection",
+        "collection-0",
+        "collection-1"
+      ],
+      "settings": {
+        "subheading": "bestselling loungewear from Japan",
+        "heading": "Soft comfort elegant",
+        "image_border_radius": 20,
+        "width": "wrapper--full-padded",
+        "text_font_size_px_desktop": 32,
+        "text_align_desktop": "text-center",
+        "text_font_size_px_mobile": 26,
+        "text_align_mobile": "text-left--mobile",
+        "color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 40
+      }
+    },
+    "section_video_wGknUF": {
+      "type": "section-video",
+      "name": "Video",
+      "settings": {
+        "video": "shopify://files/videos/Gelatopique _15th _16x9 _fin _ver2_378a7313-2a8e-4027-b059-3e9bd3ccf65b.mp4",
+        "show_video_popup": false,
+        "video_popup": "shopify://files/videos/Gelatopique _15th _16x9 _fin _ver2_378a7313-2a8e-4027-b059-3e9bd3ccf65b.mp4",
+        "video_popup_social": "",
+        "title": "",
+        "heading_font_size": "heading-large",
+        "text": "",
+        "text_font_size": "body-medium",
+        "flex_align": "align--middle-center",
+        "link_text": "",
+        "link": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "desktop_height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "width": "wrapper--full",
+        "color_scheme": "",
+        "show_text_background": false,
+        "color": "",
+        "overlay_type": "disabled",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "section-custom-content": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/504836573_18510096229002810_6812477815946635565_n.jpg",
+            "title": "Womens",
+            "heading_font_size": "heading-medium",
+            "text": "",
+            "text_font_size": "body-medium",
+            "flex_align": "align--bottom-left",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "overlay_type": "disabled",
+            "link_text": "Shop now",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "image-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/499351052_18310123294212316_8683095939718837740_n.jpg",
+            "title": "Mens",
+            "heading_font_size": "heading-medium",
+            "text": "",
+            "text_font_size": "body-medium",
+            "flex_align": "align--bottom-left",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "#ffffff",
+            "overlay_type": "disabled",
+            "link_text": "Shop now",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image-3",
+        "image-4"
+      ],
+      "settings": {
+        "borders": false,
+        "gutters": true,
+        "width": "wrapper--full-padded",
+        "height": "sixty-fifty-height-hero",
+        "mobile_height": "four-fifty-height-hero--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "scheme-6",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section-announcement": {
+      "type": "section-announcement",
+      "blocks": {
+        "text-3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>•</p>",
+            "text_font_size": "body-x-large",
+            "color": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "heading-3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Timeless pieces to treasure forever",
+            "heading_font_size": "heading-x-small"
+          }
+        },
+        "text-4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>•</p>",
+            "text_font_size": "body-x-large",
+            "color": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "heading-4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ethical sourcing and manufacturing",
+            "heading_font_size": "heading-x-small"
+          }
+        },
+        "text-5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>•</p>",
+            "text_font_size": "body-x-large",
+            "color": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "heading-5": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sustainable heirlooms",
+            "heading_font_size": "heading-x-small"
+          }
+        }
+      },
+      "block_order": [
+        "text-3",
+        "heading-3",
+        "text-4",
+        "heading-4",
+        "text-5",
+        "heading-5"
+      ],
+      "disabled": true,
+      "settings": {
+        "slider_speed": 7,
+        "text_alignment": "center",
+        "marquee_speed": 100,
+        "direction": "ticker-rtl",
+        "message_spacing": 10,
+        "show_border": false,
+        "layout": "marquee",
+        "color_scheme": "scheme-2",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "section-tab-collections": {
+      "type": "section-tab-collections",
+      "blocks": {
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "featured_collection": "dragon-quest",
+            "show_image": true,
+            "align_with_product_images": false,
+            "overlay_type": "disabled",
+            "description": "",
+            "color": "#ffffff",
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "featured_collection": "wrapped-in-love",
+            "show_image": true,
+            "align_with_product_images": true,
+            "overlay_type": "disabled",
+            "description": "",
+            "color": "#ffffff",
+            "link_text": "",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "collection-4": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "featured_collection": "midnight-hearts",
+            "show_image": true,
+            "align_with_product_images": true,
+            "overlay_type": "disabled",
+            "description": "",
+            "color": "#000000",
+            "link_text": "Add to cart",
+            "link": "",
+            "button_type": "btn--secondary",
+            "button_size": "btn--large",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "collection-2",
+        "collection-3",
+        "collection-4"
+      ],
+      "settings": {
+        "show_product_count": false,
+        "title": "Latest collections",
+        "heading_font_size": "heading-medium",
+        "text": "",
+        "text_font_size": "body-medium",
+        "layout": "inline",
+        "layout_desktop": "slider",
+        "product_limit": 7,
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "2",
+        "color_scheme": "scheme-6",
+        "padding_top": 62,
+        "padding_bottom": 62,
+        "heading_tag": "automatic"
+      }
+    },
+    "section-press-logos": {
+      "type": "section-press-logos",
+      "blocks": {
+        "logo-item-text": {
+          "type": "logo-item-text",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "Sustainable luxury at its most refined",
+            "text_font_size": "body-x-large"
+          }
+        },
+        "logo-item-text-0": {
+          "type": "logo-item-text",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "Jewelry that’s as ethical as it is exquisite",
+            "text_font_size": "body-x-large"
+          }
+        },
+        "logo-item-text-1": {
+          "type": "logo-item-text",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "The future of fine jewelry is here—and it’s conscious.",
+            "text_font_size": "body-x-large"
+          }
+        },
+        "logo-item-text-2": {
+          "type": "logo-item-text",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "Each piece feels like a modern heirloom",
+            "text_font_size": "body-x-large"
+          }
+        },
+        "logo-item-text-3": {
+          "type": "logo-item-text",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "Minimal, meaningful, and made to last",
+            "text_font_size": "body-x-large"
+          }
+        },
+        "logo-item-text-4": {
+          "type": "logo-item-text",
+          "settings": {
+            "logo_width": 100,
+            "link": "",
+            "text": "Where craftsmanship meets a conscience",
+            "text_font_size": "body-x-large"
+          }
+        }
+      },
+      "block_order": [
+        "logo-item-text",
+        "logo-item-text-0",
+        "logo-item-text-1",
+        "logo-item-text-2",
+        "logo-item-text-3",
+        "logo-item-text-4"
+      ],
+      "settings": {
+        "enable_heading_slider": true,
+        "logo_opacity": 60,
+        "title": "As seen in",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "section_custom_content_JwFiKQ": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_ADaLYU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Asset_16_2x_bae99f44-08b6-4591-b00e-01d3216829b7.png",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "text": "",
+            "text_font_size": "body-medium",
+            "flex_align": "align--middle-center",
+            "show_text_background": false,
+            "bg_color": "",
+            "color": "",
+            "overlay_type": "disabled",
+            "link_text": "",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "heading_tag": "automatic"
+          }
+        },
+        "text_KCKXpx": {
+          "type": "text",
+          "settings": {
+            "subheading": "Featured",
+            "title": "Perfect Picks for This Fall",
+            "heading_font_size": "heading-large",
+            "text": "<p>Celebrate the season with gifts that spark joy. Find something special for everyone.</p>",
+            "text_font_size": "body-medium",
+            "button_text": "Shop now",
+            "button_url": "shopify://pages/gift-guide-5",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "show_social_links": false,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "bg_color": "",
+            "color": "",
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "image_ADaLYU",
+        "text_KCKXpx"
+      ],
+      "name": "Custom section",
+      "settings": {
+        "borders": false,
+        "gutters": false,
+        "width": "wrapper--full-padded",
+        "height": "screen-height-one-half",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section-announcement-0": {
+      "type": "section-announcement",
+      "blocks": {
+        "text-6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>•</p>",
+            "text_font_size": "body-small",
+            "color": "",
+            "target_device_enabled": false,
+            "target_device": "desktop"
+          }
+        },
+        "heading-6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Express yourself in your own way",
+            "heading_font_size": "heading-x-small"
+          }
+        }
+      },
+      "block_order": [
+        "text-6",
+        "heading-6"
+      ],
+      "disabled": true,
+      "settings": {
+        "slider_speed": 7,
+        "text_alignment": "center",
+        "marquee_speed": 100,
+        "direction": "ticker-ltr",
+        "message_spacing": 10,
+        "show_border": false,
+        "layout": "marquee",
+        "color_scheme": "scheme-2",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "section-look": {
+      "type": "section-look",
+      "blocks": {
+        "product_CQpfyi": {
+          "type": "product",
+          "settings": {
+            "product": "baby-moco-teddy-bear-sagara-cardigan",
+            "show_product_card": true,
+            "position_x": 50,
+            "position_y": 50
+          }
+        },
+        "product-0": {
+          "type": "product",
+          "settings": {
+            "product": "baby-moco-teddy-bear-sagara-pants",
+            "show_product_card": true,
+            "position_x": 55,
+            "position_y": 29
+          }
+        }
+      },
+      "block_order": [
+        "product_CQpfyi",
+        "product-0"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/PWNT255128_p_28_LL.jpg",
+        "layout": "",
+        "title": "Shop the look",
+        "heading": "",
+        "heading_font_size": "heading-mini",
+        "show_dots": true,
+        "products_per_row": "1",
+        "enable_slider": false,
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": true,
+        "enable_aspect_ratio": true,
+        "image_aspect_ratio": 1.1,
+        "color_scheme": "scheme-6",
+        "dot_color": "#ffffff",
+        "dot_background": "#ffffff",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "section-product": {
+      "type": "section-product",
+      "disabled": true,
+      "settings": {
+        "product": "",
+        "show_product_card": true,
+        "layout": "is-reversed",
+        "limit": 5,
+        "scrolling_styles": "vertical",
+        "horizontal_scroll": false,
+        "color_scheme": "scheme-3"
+      }
+    },
+    "section-rich-text": {
+      "type": "section-rich-text",
+      "blocks": {
+        "subheading-0": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Follow us",
+            "padding_bottom": 6
+          }
+        },
+        "heading-7": {
+          "type": "heading",
+          "settings": {
+            "title": "@gelatopique_usa",
+            "heading_font_size": "heading-small",
+            "padding_bottom": 16,
+            "heading_tag": "automatic"
+          }
+        }
+      },
+      "block_order": [
+        "subheading-0",
+        "heading-7"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "overlay_type": "disabled",
+        "padding_top": 82,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_links_spotlight_rygNa3": {
+      "type": "section-collection-links-spotlight",
+      "blocks": {
+        "collection_RdqBVp": {
+          "type": "collection",
+          "settings": {
+            "collection": "wrapped-in-love",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        },
+        "collection_8Kxbh7": {
+          "type": "collection",
+          "settings": {
+            "collection": "dragon-quest",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        },
+        "collection_QQYjT9": {
+          "type": "collection",
+          "settings": {
+            "collection": "marshmallow-cloud-line",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        },
+        "collection_xAtmPg": {
+          "type": "collection",
+          "settings": {
+            "collection": "midnight-hearts",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        },
+        "collection_7wnNHY": {
+          "type": "collection",
+          "settings": {
+            "collection": "cozy-nights-with-pets",
+            "title": "",
+            "heading_font_size": "heading-large",
+            "button_text": "Shop now",
+            "button_link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "button_show_arrow": false,
+            "background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_RdqBVp",
+        "collection_8Kxbh7",
+        "collection_QQYjT9",
+        "collection_xAtmPg",
+        "collection_7wnNHY"
+      ],
+      "name": "Collection links: spotlight",
+      "settings": {
+        "title": "Collections Spotlight",
+        "heading_font_size": "heading-large",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "text_font_size": "body-medium",
+        "layout": "",
+        "width": "wrapper--full",
+        "height": "screen-height-one-third",
+        "mobile_height": "screen-height-one-half--mobile",
+        "reverse_blocks": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_TbKVF7": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "featured_collection": "womens-new-arrivals",
+        "heading": "Best Sellers",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "text_font_size": "body-medium",
+        "layout": "inline",
+        "link_text": "Shop Now",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_collections_list_bFJqEL": {
+      "type": "section-collections-list",
+      "blocks": {
+        "collection_8QLUi6": {
+          "type": "collection",
+          "settings": {
+            "collection": "dragon-quest",
+            "title": ""
+          }
+        },
+        "collection_4fpDi8": {
+          "type": "collection",
+          "settings": {
+            "collection": "marshmallow-cloud-line",
+            "title": ""
+          }
+        },
+        "collection_E96mem": {
+          "type": "collection",
+          "settings": {
+            "collection": "wrapped-in-love",
+            "title": ""
+          }
+        },
+        "collection_y3L4fF": {
+          "type": "collection",
+          "settings": {
+            "collection": "midnight-hearts",
+            "title": ""
+          }
+        },
+        "collection_7dricm": {
+          "type": "collection",
+          "settings": {
+            "collection": "2025-dick-bruna",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_8QLUi6",
+        "collection_4fpDi8",
+        "collection_E96mem",
+        "collection_y3L4fF",
+        "collection_7dricm"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "title": "Collection list",
+        "heading_font_size": "heading-medium",
+        "description": "",
+        "text_font_size": "body-medium",
+        "button_text": "",
+        "button_url": "shopify://collections",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "aspect_ratio": 1,
+        "width": "wrapper--full-padded",
+        "layout": "grid",
+        "grid": 5,
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 32,
+        "padding_bottom": 32,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_recent_products_egQTC7": {
+      "type": "section-recent-products",
+      "name": "Recently viewed products",
+      "settings": {
+        "product_recently_limit": 6,
+        "product_recently_minimum": 4,
+        "product_recently_heading": "Recently viewed",
+        "heading_font_size": "heading-x-small",
+        "layout_desktop": "slider",
+        "grid": 4,
+        "rows": 3,
+        "layout_mobile": "slider",
+        "color_scheme": "",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "heading_tag": "automatic"
+      }
+    },
+    "section_sidebar_G9UxPM": {
+      "type": "section-sidebar",
+      "blocks": {
+        "header_MBzyb4": {
+          "type": "header",
+          "settings": {
+            "title": "What is Gelato Pique?"
+          }
+        },
+        "accordion_PtLABM": {
+          "type": "accordion",
+          "settings": {
+            "title": "How much is shipping?",
+            "content": "<p>We offer free shipping on all US orders, and a flat rate of $10 for all international orders.</p>"
+          }
+        },
+        "accordion_LxERqd": {
+          "type": "accordion",
+          "settings": {
+            "title": "What is your return policy?",
+            "content": "<p>We accept returns within 30 days of the purchase date.</p>"
+          }
+        },
+        "header_wqMbDr": {
+          "type": "header",
+          "settings": {
+            "title": "Question theme 2"
+          }
+        },
+        "accordion_8VVhAw": {
+          "type": "accordion",
+          "settings": {
+            "title": "Can I use more than one discount code?",
+            "content": "<p>Only one discount code can be used per order and cannot be combined with other promotions.</p>"
+          }
+        },
+        "header_CFfjN3": {
+          "type": "header",
+          "settings": {
+            "title": "Contact"
+          }
+        },
+        "text_JWUaAh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Still have questions? We're happy to help! Please email us at hi@email.com and we will get back to you within 24 hours.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "header_MBzyb4",
+        "accordion_PtLABM",
+        "accordion_LxERqd",
+        "header_wqMbDr",
+        "accordion_8VVhAw",
+        "header_CFfjN3",
+        "text_JWUaAh"
+      ],
+      "name": "Sidebar",
+      "settings": {
+        "heading_font_size": "heading-small",
+        "width": "wrapper--full-padded",
+        "color_scheme": "",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "section-slideshow-nested",
+    "section-text-with-products",
+    "section_video_wGknUF",
+    "section-custom-content",
+    "section-announcement",
+    "section-tab-collections",
+    "section-press-logos",
+    "section_custom_content_JwFiKQ",
+    "section-announcement-0",
+    "section-look",
+    "section-product",
+    "section-rich-text",
+    "section_collection_links_spotlight_rygNa3",
+    "section_collection_TbKVF7",
+    "section_collections_list_bFJqEL",
+    "section_recent_products_egQTC7",
+    "section_sidebar_G9UxPM"
+  ]
+}
